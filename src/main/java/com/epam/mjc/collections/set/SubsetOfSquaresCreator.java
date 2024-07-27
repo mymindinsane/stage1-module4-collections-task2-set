@@ -5,5 +5,6 @@ import java.util.Set;
 
 public class SubsetOfSquaresCreator {
     public Set<Integer> createSubsetOfSquares(List<Integer> sourceList, int lowerBound, int upperBound) {
+        return Set.of();
     }
 }
